@@ -1,6 +1,6 @@
 #!/bin/bash
 #mysqldump
-#by nmfox.com 2015
+#by nmfox.com 2019
 
 echo -e "33[32m--------------------------------33[1m"
 echo "system is starting,please wait...."
